@@ -10,8 +10,8 @@ st.set_page_config(layout="wide", page_title="Mental Health Dashboard")
 dark_style = '''
     <style>
     body {
-        background-color: #0e1117;
-        color: white;
+        background-color: #0e1128;
+        color: black;
     }
     .st-bb, .st-at, .st-af {
         background-color: #0e1117 !important;
